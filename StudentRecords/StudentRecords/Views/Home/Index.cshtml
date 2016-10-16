@@ -1,0 +1,156 @@
+﻿@section scripts {
+    @Scripts.Render("~/bundles/app")
+}
+
+
+<div class="page-header">
+    <h3>Student Service</h3>
+
+    <div class="row">
+        <div class="col-sm-4 col-xs-12">
+            <label class="">Search </label> <input type="text" id="sample_search" class="form-control" placeholder="Subject name" />
+        </div>
+        <div class="col-sm-8 col-xs-12" style="padding-top:10px;">
+
+
+            <center><div class="result"></div></center>
+
+
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+
+    <div class="col-md-4 col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2 class="panel-title">Subjects</h2>
+            </div>
+            <div class="panel-body">
+                <ul class="list-unstyled" id="SubjectList"></ul>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <div class="col-md-4 col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2 class="panel-title">Detail</h2>
+            </div>
+            <table class="table">
+                <tr><td>Student</td><td id="StudentName"></td></tr>
+                <tr><td>Title</td><td id="Title"></td></tr>
+                <tr><td>Credits</td><td id="Credits"></td></tr>
+                <tr><td>Semester</td><td id="Semester"></td></tr>
+                <tr><td>Difficulty</td><td id="Difficulty"></td></tr>
+                <tr><td>Description</td><td id="Description"></td></tr>
+            </table>
+        </div>
+        <div class="panel">
+            <button class="btnn btn btn-success btn-block">Add Student <span class="glyphicon glyphicon-user"></span></button>
+
+
+            <div class="form-student" hidden>
+                <h3>Add Student</h3>
+                <form>
+                    <div class="form-group">
+                        <input type="text" name="Name" id="name" class="form-control" placeholder="Student Name" />
+                    </div>
+                    <input type="button" name="submit" class="btn btn-default" id="add-student" value="Submit" style="width:75px;" />
+                    <input type="button" name="close" class="btn btn-default" id="close" value="Close" style="width:75px;" />
+                </form>
+            </div>
+
+
+        </div>
+
+    </div>
+
+    <div class="col-md-4 col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2 class="panel-title">Add Subject</h2>
+            </div>
+
+            <div class="panel-body">
+
+                <form class="form-horizontal">
+                    <div class="form-group">
+                        <label for="inputAuthor" class="col-sm-3 control-label">Student</label>
+                        <div class="col-sm-9">
+                            <select class="form-control" id="myselect"></select>
+                        </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="inputTitle" class="col-sm-3 control-label">Title</label>
+                        <div class="col-sm-9">
+
+                            <input type="text" class="form-control" id="inputTitle" placeholder="Subject Name" />
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputCredits" class="col-sm-3 control-label">Credits</label>
+                        <div class="col-sm-9">
+
+                            <input type="number" class="form-control" id="inputCredits" placeholder="EKTS" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="inputSemester" class="col-sm-3 control-label">Semester</label>
+                        <div class="col-sm-9">
+
+                            <input type="number" class="form-control" id="inputSemester" placeholder="Semester" />
+
+
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="inputDifficulty" class="col-sm-3 control-label">Difficulty</label>
+                        <div class="col-sm-9">
+
+                            <input type="text" class="form-control" id="inputDifficulty" placeholder="Easy / Normal / Hard" />
+
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputDescription" class="col-sm-3 control-label">Short Description</label>
+                        <div class="col-sm-9">
+
+
+                            <textarea id="inputDescription" class="form-control" cols="12" rows="7" placeholder="Describe me    "></textarea>
+
+                        </div>
+
+                    </div>
+
+                    <button id="subjectbtn" class="btn btn-default btn-toolbar">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<center><div class="result"></div></center>
+
+
+
+
+
+
+
+
+
+
+
+

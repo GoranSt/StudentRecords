@@ -1,0 +1,278 @@
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\ApplicationInsights.config
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\csc.exe
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\System.Collections.Immutable.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\vbc.exe
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe.config
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\StudentRecords.dll.config
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\StudentRecords.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\StudentRecords.pdb
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Antlr3.Runtime.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\EntityFramework.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.Web.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.WindowsServer.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.ApplicationInsights.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Web.Infrastructure.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Newtonsoft.Json.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Owin.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Helpers.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Http.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Mvc.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Optimization.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Razor.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.WebPages.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\WebGrease.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.Web.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AI.WindowsServer.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.ApplicationInsights.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Newtonsoft.Json.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Helpers.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Http.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Mvc.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Optimization.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Razor.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.WebPages.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Antlr3.Runtime.pdb
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\EntityFramework.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.xml
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csprojResolveAssemblyReference.cache
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\obj\Debug\StudentRecords.dll
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\obj\Debug\StudentRecords.pdb
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\obj\Debug\StudentRecords.Migrations.Initial.resources
+c:\users\goran\documents\visual studio 2015\Projects\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\ApplicationInsights.config
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\csc.exe
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\vbc.exe
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\StudentRecords.dll.config
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\StudentRecords.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\StudentRecords.pdb
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Antlr3.Runtime.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\EntityFramework.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.Web.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Newtonsoft.Json.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Owin.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Helpers.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Http.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Mvc.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Optimization.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Razor.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.WebPages.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\WebGrease.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.Web.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Newtonsoft.Json.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Helpers.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Http.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Mvc.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Optimization.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Razor.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.WebPages.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Antlr3.Runtime.pdb
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\EntityFramework.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.xml
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\obj\Debug\StudentRecords.Migrations.Initial.resources
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\obj\Debug\StudentRecords.dll
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\obj\Debug\StudentRecords.pdb
+C:\Users\Goran\Desktop\finki\asp.net mvc\SRecords\StudentRecords\StudentRecords\obj\Debug\StudentRecords.Migrations.AddedMoreProperties.resources
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\ApplicationInsights.config
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\csc.exe
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\vbc.exe
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\StudentRecords.dll.config
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\StudentRecords.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\StudentRecords.pdb
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Antlr3.Runtime.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\EntityFramework.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.Web.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Newtonsoft.Json.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Owin.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Helpers.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Http.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Mvc.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Optimization.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Razor.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.WebPages.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\WebGrease.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.Web.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Newtonsoft.Json.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Helpers.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Http.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Mvc.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Optimization.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Razor.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.WebPages.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Antlr3.Runtime.pdb
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\EntityFramework.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.xml
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\obj\Debug\StudentRecords.Migrations.Initial.resources
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\obj\Debug\StudentRecords.Migrations.AddedMoreProperties.resources
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\obj\Debug\StudentRecords.dll
+C:\Users\Goran\Desktop\Copy of StudentRecords\v7-final\StudentRecords\StudentRecords\obj\Debug\StudentRecords.pdb

@@ -1,0 +1,68 @@
+﻿.page
+{
+    width: 960px;
+    margin: 0px auto;
+}
+
+.list-of-posts
+{
+    min-height:700px;  
+}
+
+.pagination li
+{
+    list-style:none;  
+    float:left;
+    width : 20px;
+    height:20px;
+    border: 1px solid white;
+    background-color:blue;
+    color:white;
+    text-align:center;
+    cursor:pointer;
+}
+
+.pagination li:hover
+{
+    background-color: white;
+    border:1px solid black;
+    color: black;
+}
+
+.pagination ul
+{
+    border: 0px;
+    padding: 0px;
+}
+
+.active-class
+{
+	background-color: white !important;
+    border:1px solid black !important;
+    color: black !important;	
+}
+
+
+
+
+/*back to top css*/
+
+
+
+
+a.back-to-top {
+	display: none;
+	width: 60px;
+	height: 60px;
+	text-indent: -9999px;
+	position: fixed;
+	z-index: 999;
+	right: 40px;
+	bottom: 40px;
+	background: #27AE61 url("Images/up-arrow.png") no-repeat center 43%;
+	
+	border-radius: 30px;
+}
+a:hover.back-to-top {
+	background-color: #000;
+}
